@@ -4,5 +4,5 @@ This is some very important placeholder text that should describe what this proj
 
 Here are some configurable parameters:
 
-<CONFIGURABLE_PARAMETER_1>
-<CONFIGURABLE_PARAMETER_2>
+* <CONFIGURABLE_PARAMETER_1>
+* <CONFIGURABLE_PARAMETER_2>
